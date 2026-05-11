@@ -4,7 +4,7 @@
 
 ---
 
-## 🛠️ Technologies
+##  Technologies
 
 - **Java 21** — Langage principal
 - **Weka 3.8.7** — Algorithmes de Machine Learning
