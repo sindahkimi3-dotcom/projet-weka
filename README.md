@@ -107,8 +107,6 @@ Clic droit sur Test.java → Run As → Java Application
 ---
 
 ## Auteur
-Sinda Hkimi 1TA2
 
-**Sinda Hkimi** — ENSTAB 2025/2026
+**Sinda Hkimi** 1TA2 — ENSTAB 2025/2026
 
-Encadrant : **Mohamed M. Moussa**
